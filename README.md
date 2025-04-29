@@ -1,4 +1,4 @@
-<img src="Mark Web Developer.png" alt="GitHub Banner" width="100%" />
+<img src="Mark Web Developer.png" alt="GitHub Banner" width="100%" height="500px" />
 
 #I am Mark, a passionate web developer based in Pasig, Philippines. With a strong background in WordPress and React, I specialize in creating dynamic and responsive websites.
 
@@ -56,12 +56,6 @@
 </div>
 
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
- -->
 
 
 
