@@ -59,3 +59,6 @@
 
 
 
+### 🐍 GitHub Snake Contribution Graph
+
+![snake gif](https://github.com/Markjonel02/Markjonel02/blob/output/ocean.gif?raw=true)
