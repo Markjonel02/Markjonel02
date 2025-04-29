@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mark A self-driven Frontend/Backend Developer from the Philippines with a passion for crafting interactive web experiences, building full-stack applications, and continuously learning new technologies.</h2>
 
 ###
 
