@@ -1,45 +1,63 @@
-<!-- Profile README start -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F77F00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mark!;A+Frontend%2FBackend+Developer;I+build+creative+web+projects!" alt="Typing SVG" />
-</p>
+# 🌟 Welcome to MARK JONEL DAEP RELLES's Profile 🌟
 
-# 👋 About Me
+<p><em>I'm Mark, a passionate Frontend/Backend Developer based in the Philippines 🇵🇭.
+I love building interactive, scalable, and beautiful web applications.</em></p>
 
-I'm **Mark**, a passionate **Frontend/Backend Developer** based in the Philippines 🇵🇭.  
-I love building interactive, scalable, and beautiful web applications.  
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
-- 🔥 Currently working on **The Last of Us fan site**
-- 🌱 Currently learning **React**, **Vue**, and **GSAP animations**
-- 🤝 Open to collaborating on creative and impactful projects
-- 🎯 Always pushing my limits and learning new tech
+</div>
 
----
+<hr>
 
-## 🚀 Tech Stack
+## 🔭 I'm currently working on
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/tech-stack.png" alt="Tech Stack" width="600" />
-</p>
+<div align="center"><p>Jr. Webdeveloper</p></div>
 
-<!-- Replace the link above with the actual location where you upload your stack image in your repo -->
+## 💻 Tech Stack
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+### 🎨 Frontend
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="450" />
-</p>
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Material UI-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Sass-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4">
 
----
+### ⚙️ Backend
 
-## ☕ Let's Connect!
+<img src="https://img.shields.io/badge/-Express-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Django-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](your-buymeacoffee-link)
+### 💬 Languages
 
----
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500">
 
-<!-- Profile README end -->
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Markjonel02/Markjonel02"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/markjonel-relles-66aaa6287/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** markjoneldaeprelles@gmail.com
+**Phone:** +639260447220
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'Markjonel02' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=Markjonel02&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/Markjonel02?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
