@@ -1,9 +1,9 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="Mark Web Developer.png" alt="GitHub Banner" width="100%" />
 
 #I am Mark, a passionate web developer based in Pasig, Philippines. With a strong background in WordPress and React, I specialize in creating dynamic and responsive websites.
 
      a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜 currently working on my own [webpage](https://the-last-of-us-5n1j.vercel.app/)<br>👨🏼‍🎓 studied Information Technology  at University of Rizal System<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 
 # 💻 Tech Stack:
