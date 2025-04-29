@@ -2,7 +2,7 @@
 
 #I am Mark, a passionate web developer based in Pasig, Philippines. With a strong background in WordPress and React, I specialize in creating dynamic and responsive websites.
 
-     a German Web Developer 👋🏼:
+     a Filipino Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://the-last-of-us-5n1j.vercel.app/)<br>👨🏼‍🎓 studied Information Technology  at University of Rizal System<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 
