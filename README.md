@@ -1,4 +1,4 @@
-<img src="Mark Web Developer.png" alt="GitHub Banner" width="100%" height="500px" />
+#<img src="Mark Web Developer.png" alt="GitHub Banner" width="100%" height="500px" />
 
 #I am Mark, a passionate web developer based in Pasig, Philippines. With a strong background in WordPress and React, I specialize in creating dynamic and responsive websites.
 
