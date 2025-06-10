@@ -1,3 +1,11 @@
+
+#I am Mark, a passionate web developer based in Pasig, Philippines. With a strong background in WordPress and React, I specialize in creating dynamic and responsive websites.
+
+     a Filipino Web Developer 👋🏼:
+🛜 currently working on my own [webpage](https://the-last-of-us-5n1j.vercel.app/)<br>👨🏼‍🎓 studied Information Technology  at University of Rizal System<br>👨🏼‍💻 working as a web developer since 2022 <br>
+
+
+
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="javascript logo" />
@@ -46,3 +54,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" title="WordPress" alt="wordpress logo" />
 </div>
+
