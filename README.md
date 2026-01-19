@@ -12,11 +12,9 @@ I am a full-stack developer specializing in the MERN stack. Based in an undisclo
 - **Bullseye Solutions Inc.** (2024 – Present)  
   Web Developer specializing in MERN stack, WordPress, and Shopify. Focused on scalable web systems, documentation, and process optimization.
 
-- **Freelance Projects** (2022 – Present)  
-  Delivered custom WordPress and React solutions for small businesses and startups, including eCommerce sites, portfolio pages, and routing applications.
+  - **NDD TECH** (Jul 2022) Frontend Web Developer working with **React.js** and modern frontend frameworks like **Tailwind CSS**. Responsible for connecting APIs from backend services and building responsive user interfaces.
 
-- **University of Rizal System Projects**  
-  Built academic and student-focused applications during my studies, applying practical IT knowledge to real-world scenarios.
+- **Neks Job (Internship)** (2022) Built an **Application Tracking System (ATS)** using **Laravel 9** and **Vue.js**. Utilized **Postman** for API testing and **Eamiler** for email notifications, contributing to a streamlined recruitment workflow.
 
 ## Skills & Technologies
 <div align="left">
