@@ -6,6 +6,18 @@ I'm **Mark Jonel Relles**, a passionate developer with a love for crafting effic
 
 I am a full-stack developer specializing in the MERN stack. Based in an undisclosed location, I'm currently exploring innovative technologies and building impactful projects. With a strong foundation in both front-end and back-end development, I enjoy creating seamless user experiences.
 
+
+## 🏢 Companies I've Worked With
+
+- **Bullseye Solutions Inc.** (2024 – Present)  
+  Web Developer specializing in MERN stack, WordPress, and Shopify. Focused on scalable web systems, documentation, and process optimization.
+
+- **Freelance Projects** (2022 – Present)  
+  Delivered custom WordPress and React solutions for small businesses and startups, including eCommerce sites, portfolio pages, and routing applications.
+
+- **University of Rizal System Projects**  
+  Built academic and student-focused applications during my studies, applying practical IT knowledge to real-world scenarios.
+
 ## Skills & Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="javascript logo" />
