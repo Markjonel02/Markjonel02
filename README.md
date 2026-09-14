@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! 
 
 I'm **Mark Jonel Relles**, a passionate developer with a love for crafting efficient and user-friendly applications. Let's turn ideas into reality!
 
@@ -7,7 +7,7 @@ I'm **Mark Jonel Relles**, a passionate developer with a love for crafting effic
 I am a full-stack developer specializing in the MERN stack. Based in an undisclosed location, I'm currently exploring innovative technologies and building impactful projects. With a strong foundation in both front-end and back-end development, I enjoy creating seamless user experiences.
 
 
-## 🏢 Companies I've Worked With
+##  Companies I've Worked With
 
 - **Bullseye Solutions Inc.** (2024 – Present)  
   Web Developer specializing in MERN stack, WordPress, and Shopify. Focused on scalable web systems, documentation, and process optimization.
